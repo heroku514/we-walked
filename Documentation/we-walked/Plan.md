@@ -11,6 +11,10 @@ Ship a free offline walk log for kids, families, and seniors. Today and the six 
 3. Run the full simulator regression on the Release binary for build 1.
 4. Take three native screenshots, then upload that binary and submit it.
 
+## 2026-10-03 later
+
+Build 1 is Waiting for Review. The next run checks for a rejection before starting another app.
+
 ## Why this app
 
 Counting games, laundry sorters, picture lists, outing plans, dice, dinner answers, household places, tapped sentences, copy-the-line, room hunts, shape pairs, and two-person poses are already in the store or in this pipeline. This one keeps a week of walks on the phone. It does not use a camera, a network, or a notification.
