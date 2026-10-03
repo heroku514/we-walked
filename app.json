@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "WeWalked",
+    "slug": "we-walked",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "scheme": "wewalked",
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.peakermap.wewalked",
+      "buildNumber": "1",
+      "infoPlist": {
+        "CFBundleDisplayName": "We Walked",
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#F7F3EA",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}

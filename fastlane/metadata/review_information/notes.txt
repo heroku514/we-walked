@@ -1,0 +1,1 @@
+We Walked is an offline log of walks for a family. Tap We walked to mark today. Day before shows the six earlier days. Day after opens tomorrow, which cannot be marked. Clear week asks you to confirm. The week remains after you leave the app. There is no account, no camera, and no network use.

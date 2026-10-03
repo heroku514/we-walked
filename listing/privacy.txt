@@ -1,0 +1,5 @@
+We Walked privacy
+
+We Walked stores this week's walks on this phone. A walk is the day you marked, and which day is open.
+
+The app does not collect personal data. It does not use an account, ads, a camera, or a network connection. Nothing is sent off the phone.
